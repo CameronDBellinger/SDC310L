@@ -44,7 +44,7 @@ What We Focus On
 
 <li>Community Impact</li>
 
-<li>Secure Shopping</li>
+<li>Secure Shopping</li> 
 
 </ul>
 

@@ -389,7 +389,7 @@ required
 
 <button
 type="submit"
-class="button"
+class="button" 
 >
 Send Message
 </button>

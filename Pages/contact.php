@@ -1,7 +1,7 @@
 <?php
 
 require_once __DIR__ . "/../controller/connect_controller.php";
-
+  
 $message_sent = false;
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {

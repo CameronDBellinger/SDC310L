@@ -9,7 +9,7 @@ $dbName = "PureSpringProject";
 $dbUser = "ecpi_user";
 $dbPassword = "Password1";
 
-
+ 
 // ==========================================
 // Connect to MySQL
 // ==========================================

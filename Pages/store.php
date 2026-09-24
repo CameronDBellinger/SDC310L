@@ -88,7 +88,7 @@ $product["category_name"]
 
 </div>
 
-
+ 
 <h3>
 
 <?php

@@ -224,7 +224,7 @@ try {
         ]);
 
     }
-
+ 
 
     $connection_success = true;
 

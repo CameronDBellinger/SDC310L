@@ -17,7 +17,7 @@ if (isset($_GET["remove"])) {
     unset($_SESSION["cart"][$remove_id]);
 
 }
-
+   
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 

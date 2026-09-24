@@ -70,7 +70,7 @@ require_once __DIR__ . "/../controller/connect_controller.php";
                 <p>
                     <?php echo htmlspecialchars($connection_status); ?>
                 </p>
-
+ 
             <?php endif; ?>
 
         </div>

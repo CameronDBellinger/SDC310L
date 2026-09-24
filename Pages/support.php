@@ -32,7 +32,7 @@ Customer Support
 <p>
 Email: support@purespring.com
 </p>
-
+ 
 <p>
 We are here to help with your PureSpring water
 solutions and product questions.

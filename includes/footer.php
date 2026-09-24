@@ -1,6 +1,6 @@
 <footer>
 
-    <p>
+    <p> 
         © 2026 PureSpring Water Solutions
     </p>
 
