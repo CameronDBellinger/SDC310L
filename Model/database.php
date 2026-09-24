@@ -3,7 +3,7 @@
 // ==========================================
 // PureSpring Database Configuration
 // ==========================================
-
+ 
 $dbHost = "localhost";
 $dbName = "PureSpringProject";
 $dbUser = "ecpi_user";
